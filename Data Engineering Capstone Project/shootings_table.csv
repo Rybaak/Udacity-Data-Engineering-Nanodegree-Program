@@ -1,0 +1,695 @@
+0,1990-03,1990,3,3/27/90,Brooklyn,New York,,C,0,1,,Wikp
+1,1990-05,1990,5,5/20/90,Centerville,Tennessee,suburban,HS,1,,,Pah
+2,1990-08,1990,8,8/26/90,Las Vegas,Nevada,urban,HS,1,,,Pah
+3,1990-09,1990,9,9/11/90,San Antonio,Texas,,HS,0,3,,Wikp
+4,1991-01,1991,1,1/8/91,Richardson,Texas,urban,HS,0,,,Pah
+5,1991-02,1991,2,2/6/91,Donna,Texas,,HS,1,0,,Wikp
+6,1991-04,1991,4,4/23/91,Compton,California,urban,MS,1,,TRUE,Pah
+7,1991-04,1991,4,4/23/91,Compton,California,,MS,1,0,,Wikp
+8,1991-09,1991,9,9/18/91,Crosby,Texas,rural,HS,1,,TRUE,Pah
+9,1991-09,1991,9,9/18/91,Crosby,Texas,,HS,1,0,,Wikp
+10,1991-10,1991,10,10/8/91,Bronx,New York,urban,HS,1,,,Pah
+11,1991-11,1991,11,11/1/91,Iowa City,Iowa,urban,C,5,,TRUE,Pah
+12,1991-11,1991,11,11/1/91,Iowa City,Iowa,,C,6,1,,Wikp
+13,1991-11,1991,11,11/14/91,Houston,Texas,urban,HS,0,,,Pah
+14,1991-11,1991,11,11/25/91,Brooklyn,New York,urban,HS,1,,TRUE,Pah
+15,1991-11,1991,11,11/25/91,Brooklyn,New York,,HS,1,0,,Wikp
+16,1991-12,1991,12,12/12/91,Kent,Ohio,,C,1,0,,Wikp
+17,1992-01,1992,1,1/29/92,Kent,Ohio,,C,0,1,,Wikp
+18,1992-02,1992,2,2/26/92,Brooklyn,New York,urban,HS,2,,TRUE,Pah
+19,1992-02,1992,2,2/26/92,Brooklyn,New York,,HS,2,0,,Wikp
+20,1992-05,1992,5,5/1/92,Olivehurst,California,suburban,HS,4,,TRUE,Pah
+21,1992-05,1992,5,5/1/92,Olivehurst,California,,HS,3,10,,Wikp
+22,1992-05,1992,5,5/14/92,Napa,California,urban,MS,0,,,Pah
+23,1992-09,1992,9,9/11/92,Lincoln,Texas,urban,HS,0,,,Pah
+24,1992-10,1992,10,10/12/92,Lincoln,Nebraska,urban,C,0,,,Pah
+25,1992-10,1992,10,10/12/92,Tucson,Arizona,urban,HS,1,,,Pah
+26,1992-10,1992,10,10/19/92,The Bronx,New York,,HS,0,3,,Wikp
+27,1992-11,1992,11,11/4/92,Detroit,Michigan,,HS,0,11,,Wikp
+28,1992-11,1992,11,11/10/92,Chicago,Illinois,urban,ES,0,,,Pah
+29,1992-11,1992,11,11/13/92,Houston,Texas,urban,HS,1,,,Pah
+30,1992-11,1992,11,11/16/92,Birmingham,Alabama,urban,HS,1,,,Pah
+31,1992-11,1992,11,11/20/92,Chicago,Illinois,urban,HS,1,,,Pah
+32,1992-11,1992,11,11/23/92,Buffalo,New York,urban,HS,0,,,Pah
+33,1992-12,1992,12,12/3/92,Chicago,Illinois,urban,ES,1,,,Pah
+34,1992-12,1992,12,12/14/92,Great Barrington,Massachusetts,suburban,C,2,,,Pah
+35,1992-12,1992,12,12/14/92,Great Barrington,Massachusetts,,C,2,4,,Wikp
+36,1993-01,1993,1,1/6/93,Brentwood,New York,,HS,0,1,,Wikp
+37,1993-01,1993,1,1/8/93,Kinzers,Pennsylvania,rural,HS,1,,,Pah
+38,1993-01,1993,1,1/12/93,Miami,Florida,urban,HS,1,,,Pah
+39,1993-01,1993,1,1/18/93,Grayson,Kentucky,suburban,HS,2,,TRUE,Pah
+40,1993-01,1993,1,1/18/93,Grayson,Kentucky,,HS,2,0,,Wikp
+41,1993-01,1993,1,1/21/93,Los Angeles,California,urban,HS,1,,,Pah
+42,1993-02,1993,2,2/1/93,Redmond,Washington,urban,MS,1,,,Pah
+43,1993-02,1993,2,2/1/93,Amityville,New York,suburban,HS,1,,,Pah
+44,1993-02,1993,2,2/4/93,Clayton County,Georgia,urban,HS,1,,,Pah
+45,1993-02,1993,2,2/8/93,Middle River,Minnesota,rural,MS,1,,,Pah
+46,1993-02,1993,2,2/8/93,Washington DC,District of Columbia,urban,HS,1,,,Pah
+47,1993-02,1993,2,2/18/93,Dallas,Texas,urban,HS,1,,,Pah
+48,1993-02,1993,2,2/22/93,Los Angeles,California,urban,HS,1,,TRUE,Pah
+49,1993-02,1993,2,2/22/93,Los Angeles,California,,HS,1,0,,Wikp
+50,1993-02,1993,2,2/26/93,Gloucester,Massachusetts,suburban,HS,0,,,Pah
+51,1993-03,1993,3,3/18/93,Harlem,Georgia,suburban,HS,1,,,Pah
+52,1993-03,1993,3,3/25/93,St. Louis,Missouri,urban,HS,1,,,Pah
+53,1993-04,1993,4,4/3/93,Sacramento,California,urban,HS,1,,,Pah
+54,1993-04,1993,4,4/14/93,Irving,Texas,urban,HS,1,,,Pah
+55,1993-04,1993,4,4/15/93,Acushnet,Massachusetts,suburban,MS,1,,TRUE,Pah
+56,1993-04,1993,4,4/15/93,Acushnet,Massachusetts,,MS,1,0,,Wikp
+57,1993-04,1993,4,4/16/93,Sacramento,California,urban,HS,1,,,Pah
+58,1993-04,1993,4,4/26/93,Raleigh,North Carolina,urban,HS,1,,,Pah
+59,1993-05,1993,5,5/14/93,Irving,Texas,,HS,1,0,,Wikp
+60,1993-05,1993,5,5/24/93,Red Hill,Pennsylvania,rural,HS,1,,,Pah
+61,1993-05,1993,5,5/24/93,Pennsburg,Pennsylvania,,HS,1,0,,Wikp
+62,1993-05,1993,5,5/27/93,New Orleans,Louisiana,urban,HS,1,,,Pah
+63,1993-07,1993,7,7/8/93,Ogden,Utah,urban,C,1,,,Pah
+64,1993-08,1993,8,8/31/93,Atlanta,Georgia,urban,HS,1,,,Pah
+65,1993-09,1993,9,9/2/93,Dallas,Texas,urban,HS,1,,,Pah
+66,1993-09,1993,9,9/17/93,Sheridan,Wyoming,,MS,1,4,,Wikp
+67,1993-09,1993,9,9/18/93,Sheridan,Wyoming,suburban,MS,1,,TRUE,Pah
+68,1993-10,1993,10,10/12/93,New Castle,Delaware,suburban,HS,1,,,Pah
+69,1993-10,1993,10,10/14/93,Detroit,Michigan,urban,HS,1,,,Pah
+70,1993-11,1993,11,11/1/93,Chicago,Illinois,urban,HS,1,,,Pah
+71,1993-11,1993,11,11/4/93,Jacksonville,Florida,urban,HS,1,,,Pah
+72,1993-11,1993,11,11/4/93,New Britain,Connecticut,urban,HS,1,,TRUE,Pah
+73,1993-11,1993,11,11/4/93,New Britain,Connecticut,,HS,1,0,,Wikp
+74,1993-11,1993,11,11/5/93,Bay Springs,Mississippi,rural,HS,1,,,Pah
+75,1993-11,1993,11,11/29/93,Kansas City,Missouri,urban,HS,1,,,Pah
+76,1993-12,1993,12,12/1/93,Wauwatosa,Wisconsin,suburban,HS,1,,TRUE,Pah
+77,1993-12,1993,12,12/1/93,Wauwatosa,Wisconsin,,HS,1,0,,Wikp
+78,1993-12,1993,12,12/8/93,Savannah,Georgia,urban,HS,1,,,Pah
+79,1993-12,1993,12,12/17/93,Chelsea,Michigan,suburban,HS,1,,,Pah
+80,1994-01,1994,1,1/20/94,Kennard,Texas,rural,HS,0,,,Pah
+81,1994-01,1994,1,1/20/94,Hacienda Heights,California,urban,HS,1,,,Pah
+82,1994-01,1994,1,1/24/94,Columbia,South Carolina,,HS,1,0,,Wikp
+83,1994-01,1994,1,1/26/94,Columbia,South Carolina,urban,HS,1,,,Pah
+84,1994-01,1994,1,1/31/94,Seattle,Washington,urban,MS,1,,TRUE,Pah
+85,1994-01,1994,1,1/31/94,Seattle,Washington,,MS,1,0,,Wikp
+86,1994-02,1994,2,2/8/94,Detroit,Michigan,urban,HS,1,,,Pah
+87,1994-02,1994,2,2/14/94,Belmont,California,suburban,HS,1,,,Pah
+88,1994-02,1994,2,2/18/94,Spartanburg,South Carolina,,HS,0,1,,Wikp
+89,1994-03,1994,3,3/1/94,Boonville,Missouri,suburban,C,2,,TRUE,Pah
+90,1994-03,1994,3,3/1/94,Boonville,Missouri,,HS,2,0,,Wikp
+91,1994-03,1994,3,3/15/94,Charleston,South Carolina,urban,HS,1,,,Pah
+92,1994-03,1994,3,3/22/94,Riveria Beach,Florida,urban,MS,0,,,Pah
+93,1994-03,1994,3,3/23/94,Seattle,Washington,urban,HS,1,,,Pah
+94,1994-03,1994,3,3/25/94,Woodstock,Georgia,suburban,HS,0,,,Pah
+95,1994-04,1994,4,4/12/94,Butte,Montana,suburban,ES,1,,TRUE,Pah
+96,1994-04,1994,4,4/12/94,Butte,Montana,,ES,1,0,,Wikp
+97,1994-04,1994,4,4/13/94,Los Angeles,California,urban,ES,0,,,Pah
+98,1994-04,1994,4,4/21/94,Nashville,Tennessee,urban,MS,1,,TRUE,Pah
+99,1994-04,1994,4,4/21/94,Nashville,Tennessee,,MS,1,0,,Wikp
+100,1994-05,1994,5,5/2/94,North Miami,Florida,suburban,HS,1,,,Pah
+101,1994-05,1994,5,5/25/94,Union,Kentucky,suburban,HS,4,,,Pah
+102,1994-07,1994,7,7/25/94,Ottumwa,Iowa,suburban,HS,1,,,Pah
+103,1994-09,1994,9,9/7/94,Hollywood,California,urban,HS,1,,,Pah
+104,1994-10,1994,10,10/12/94,Greensboro,North Carolina,urban,HS,1,,TRUE,Pah
+105,1994-10,1994,10,10/12/94,Greensboro,North Carolina,,HS,1,1,,Wikp
+106,1994-10,1994,10,10/17/94,Chicago,Illinois,,HS,0,1,,Wikp
+107,1994-11,1994,11,11/5/94,San Leandro,California,urban,ES,1,,,Pah
+108,1994-11,1994,11,11/7/94,Wickliffe,Ohio,suburban,MS,1,,TRUE,Pah
+109,1994-11,1994,11,11/7/94,Wickliffe,Ohio,,MS,1,4,,Wikp
+110,1994-11,1994,11,11/15/94,Tacoma,Washington,urban,HS,1,,,Pah
+111,1994-12,1994,12,12/14/94,Albany,New York,,C,0,1,,Wikp
+112,1995-01,1995,1,1/5/95,Washington DC,District of Columbia,urban,HS,1,,,Pah
+113,1995-01,1995,1,1/10/95,Palm Beach Gardens,Florida,suburban,HS,0,,,Pah
+114,1995-01,1995,1,1/12/95,Seattle,Washington,urban,HS,0,,TRUE,Pah
+115,1995-01,1995,1,1/12/95,Seattle,Washington,,HS,0,2,,Wikp
+116,1995-01,1995,1,1/23/95,Redlands,California,urban,MS,1,,,Pah
+117,1995-01,1995,1,1/26/95,Chapel Hill,North Carolina,urban,C,2,,,Pah
+118,1995-02,1995,2,2/2/95,Long Beach,California,urban,HS,1,,,Pah
+119,1995-08,1995,8,8/29/95,Laredo,Texas,urban,MS,1,,,Pah
+120,1995-09,1995,9,9/12/95,Memphis,Tennessee,urban,HS,1,,,Pah
+121,1995-09,1995,9,9/14/95,Olathe,Kansas,urban,HS,2,,,Pah
+122,1995-09,1995,9,9/29/95,Tavares,Florida,urban,MS,1,,TRUE,Pah
+123,1995-09,1995,9,9/29/95,Tavares,Florida,,MS,1,0,,Wikp
+124,1995-10,1995,10,10/12/95,Blackville,South Carolina,rural,HS,1,,TRUE,Pah
+125,1995-10,1995,10,10/12/95,Blackville,South Carolina,,HS,2,1,,Wikp
+126,1995-11,1995,11,11/15/95,Lynnville,Tennessee,rural,HS,2,,TRUE,Pah
+127,1995-11,1995,11,11/15/95,Lynnville,Tennessee,,HS,2,1,,Wikp
+128,1995-11,1995,11,11/28/95,queens,New York,urban,HS,1,,,Pah
+129,1996-01,1996,1,1/19/96,District of Columbia,District of Columbia,urban,MS,1,,,Pah
+130,1996-01,1996,1,1/19/96,Washington,D.C.,,HS,1,0,,Wikp
+131,1996-01,1996,1,1/26/96,memphis,Tennessee,urban,HS,1,,,Pah
+132,1996-02,1996,2,2/2/96,Moses Lake,Washington,suburban,MS,3,,TRUE,Pah
+133,1996-02,1996,2,2/2/96,Moses Lake,Washington,,MS,3,1,,Wikp
+134,1996-02,1996,2,2/8/96,Palo Alto,California,urban,HS,1,,,Pah
+135,1996-02,1996,2,2/29/96,St. Louis,Missouri,,HS,1,1,,Wikp
+136,1996-03,1996,3,3/11/96,New London,North Carolina,rural,HS,1,,,Pah
+137,1996-04,1996,4,4/11/96,Talledega,Alabama,suburban,HS,1,,,Pah
+138,1996-06,1996,6,6/4/96,Hemet,California,urban,HS,1,,,Pah
+139,1996-08,1996,8,8/15/96,San Diego,California,urban,C,3,,TRUE,Pah
+140,1996-08,1996,8,8/15/96,San Diego,California,,C,3,0,,Wikp
+141,1996-08,1996,8,8/26/96,San Antonio,Texas,urban,C,1,,,Pah
+142,1996-09,1996,9,9/17/96,State College,Pennsylvania,urban,C,1,,TRUE,Pah
+143,1996-09,1996,9,9/17/96,State College,Pennsylvania,,C,1,2,,Wikp
+144,1996-09,1996,9,9/25/96,Scottdale,Georgia,suburban,HS,1,,TRUE,Pah
+145,1996-09,1996,9,9/25/96,Decatur,Georgia,,HS,1,2,,Wikp
+146,1996-10,1996,10,10/2/96,Philadelphia,Pennsylvania,urban,ES,2,,,Pah
+147,1996-10,1996,10,10/4/96,Playa del Rey,California,suburban,HS,1,,,Pah
+148,1996-10,1996,10,10/9/96,Sherwood,Arkansas,,-,1,0,,Wikp
+149,1996-10,1996,10,10/13/96,St. Louis,Missouri,urban,HS,1,,,Pah
+150,1996-10,1996,10,10/16/96,West Lafayette,Indiana,suburban,C,1,,,Pah
+151,1996-11,1996,11,11/27/96,Sacramento,California,urban,HS,1,,,Pah
+152,1997-01,1997,1,1/11/97,Brooklyn,New York,urban,HS,1,,,Pah
+153,1997-01,1997,1,1/27/97,West Palm Beach,Florida,urban,MS,1,,TRUE,Pah
+154,1997-01,1997,1,1/27/97,West Palm Beach,Florida,,MS,1,0,,Wikp
+155,1997-01,1997,1,1/31/97,Tulsa,Oklahoma,urban,,1,,,Pah
+156,1997-02,1997,2,2/19/97,Bethel,Alaska,suburban,HS,2,,TRUE,Pah
+157,1997-02,1997,2,2/19/97,Bethel,Alaska,,HS,2,2,,Wikp
+158,1997-02,1997,2,2/20/97,Jacksonville,Florida,urban,HS,1,,,Pah
+159,1997-03,1997,3,3/18/97,Detroit,Michigan,urban,HS,1,,,Pah
+160,1997-10,1997,10,10/1/97,Pearl,Mississippi,suburban,HS,3,,TRUE,Pah
+161,1997-10,1997,10,10/1/97,Pearl,Mississippi,,HS,3,7,,Wikp
+162,1997-10,1997,10,10/14/97,Garland,Texas,urban,HS,1,,,Pah
+163,1997-10,1997,10,10/15/97,Palmetto,Florida,,MS,0,1,,Wikp
+164,1997-10,1997,10,10/22/97,Norwalk,California,urban,HS,2,,,Pah
+165,1997-11,1997,11,11/13/97,Sacramento,California,urban,ES,1,,,Pah
+166,1997-12,1997,12,12/1/97,West Paducah,Kentucky,suburban,HS,3,,TRUE,Pah
+167,1997-12,1997,12,12/1/97,West Paducah,Kentucky,,HS,3,5,,Wikp
+168,1997-12,1997,12,12/15/97,Stamps,Arkansas,rural,HS,2,,TRUE,Pah
+169,1997-12,1997,12,12/15/97,Stamps,Arkansas,,HS,0,2,,Wikp
+170,1998-02,1998,2,2/25/98,Reed City,Michigan,rural,HS,1,,,Pah
+171,1998-03,1998,3,3/1/98,Philadelphia,Pennsylvania,,C,1,3,,Wikp
+172,1998-03,1998,3,3/24/98,Jonesboro,Arkansas,urban,MS,5,,,Pah
+173,1998-03,1998,3,3/24/98,Craighead County,Arkansas,,MS,5,10,,Wikp
+174,1998-03,1998,3,3/25/98,Coldwater,Michigan,suburban,HS,1,,,Pah
+175,1998-03,1998,3,3/30/98,Chapel Hill,North Carolina,urban,MS,0,,,Pah
+176,1998-04,1998,4,4/24/98,Edinboro,Pennsylvania,suburban,HS,1,,TRUE,Pah
+177,1998-04,1998,4,4/24/98,Edinboro,Pennsylvania,,MS,1,3,,Wikp
+178,1998-04,1998,4,4/28/98,Pomona,California,urban,ES,2,,,Pah
+179,1998-05,1998,5,5/1/98,Buffalo,New York,urban,ES,1,,,Pah
+180,1998-05,1998,5,5/19/98,Fayetteville,Tennessee,suburban,HS,1,,TRUE,Pah
+181,1998-05,1998,5,5/19/98,Fayetteville,Tennessee,,HS,1,0,,Wikp
+182,1998-05,1998,5,5/21/98,Springfield,Oregon,urban,HS,4,,TRUE,Pah
+183,1998-05,1998,5,5/21/98,Rialto,California,urban,HS,1,,,Pah
+184,1998-05,1998,5,5/21/98,Springfield,Oregon,,HS,4,23,,Wikp
+185,1998-05,1998,5,5/27/98,Pasadena,California,urban,MS,0,,,Pah
+186,1998-05,1998,5,5/29/98,Fort Lauderdale,Florida,urban,HS,2,,,Pah
+187,1998-06,1998,6,6/15/98,Richmond,Virginia,urban,HS,0,,TRUE,Pah
+188,1998-06,1998,6,6/15/98,Richmond,Virginia,,HS,0,2,,Wikp
+189,1998-09,1998,9,9/4/98,San Bernardino,California,urban,C,2,,,Pah
+190,1998-09,1998,9,9/12/98,Glendale,California,urban,HS,0,,,Pah
+191,1998-12,1998,12,12/10/98,Detroit,Michigan,urban,C,1,,TRUE,Pah
+192,1998-12,1998,12,12/10/98,Detroit,Michigan,,C,1,0,,Wikp
+193,1999-01,1999,1,1/8/99,Carollton,Georgia,suburban,HS,2,,TRUE,Pah
+194,1999-01,1999,1,1/8/99,Carrollton,Georgia,,HS,1,1,,Wikp
+195,1999-01,1999,1,1/21/99,North Richland Hills,Texas,urban,HS,1,,,Pah
+196,1999-02,1999,2,2/11/99,Elgin,Illinois,urban,HS,0,,,Pah
+197,1999-04,1999,4,4/16/99,Notus,Idaho,rural,HS,0,,TRUE,Pah
+198,1999-04,1999,4,4/16/99,Notus,Idaho,,HS,0,0,,Wikp
+199,1999-04,1999,4,4/20/99,Littleton,Colorado,suburban,HS,15,,TRUE,Pah
+200,1999-04,1999,4,4/20/99,Littleton,Colorado,,HS,15,21,,Wikp
+201,1999-04,1999,4,4/23/99,Atlanta,Georgia,urban,MS,1,,,Pah
+202,1999-05,1999,5,5/20/99,Conyers,Georgia,suburban,HS,0,,TRUE,Pah
+203,1999-05,1999,5,5/20/99,Conyers,Georgia,,HS,0,6,,Wikp
+204,1999-08,1999,8,8/25/99,Monticello,Georgia,suburban,HS,1,,,Pah
+205,1999-09,1999,9,9/7/99,Plano,Texas,urban,HS,1,,,Pah
+206,1999-09,1999,9,9/9/99,San Jose,California,urban,HS,1,,,Pah
+207,1999-11,1999,11,11/19/99,Deming,New Mexico,suburban,MS,0,,TRUE,Pah
+208,1999-11,1999,11,11/19/99,Deming,New Mexico,,MS,1,0,,Wikp
+209,1999-12,1999,12,12/6/99,Fort Gibson,Oklahoma,suburban,MS,0,,TRUE,Pah
+210,1999-12,1999,12,12/6/99,Fort Gibson,Oklahoma,,MS,0,6,,Wikp
+211,2000-01,2000,1,1/19/00,New Port Richey,Florida,suburban,HS,0,,,Pah
+212,2000-02,2000,2,2/29/00,Flint,Michigan,urban,ES,1,,TRUE,Pah
+213,2000-02,2000,2,2/29/00,Flint,Michigan,,ES,1,0,,Wikp
+214,2000-05,2000,5,5/10/00,Sierra Vista,Arizona,urban,ES,2,,,Pah
+215,2000-05,2000,5,5/26/00,Lake Worth,Florida,suburban,MS,1,,TRUE,Pah
+216,2000-05,2000,5,5/26/00,Lake Worth,Florida,,MS,1,0,,Wikp
+217,2000-06,2000,6,6/28/00,Seattle,Washington,urban,C,2,,,Pah
+218,2000-07,2000,7,7/26/00,Canton,Ohio,urban,HS,1,,,Pah
+219,2000-08,2000,8,8/28/00,Fayetteville,Arkansas,urban,C,2,,TRUE,Pah
+220,2000-08,2000,8,8/28/00,Fayetteville,Arkansas,,C,2,0,,Wikp
+221,2000-09,2000,9,9/5/00,Bidwell,Ohio,suburban,ES,2,,,Pah
+222,2000-09,2000,9,9/26/00,New Orleans,Louisiana,urban,MS,0,,TRUE,Pah
+223,2000-09,2000,9,9/26/00,New Orleans,Louisiana,,-,0,2,,Wikp
+224,2000-10,2000,10,10/23/00,Los Angeles,California,urban,C,1,,,Pah
+225,2000-10,2000,10,10/26/00,Brooklyn,New York,urban,HS,1,,,Pah
+226,2000-10,2000,10,10/27/00,Memphis,Tennessee,urban,HS,1,,,Pah
+227,2000-12,2000,12,12/1/00,Granada Hills,California,urban,HS,0,,TRUE,Pah
+228,2000-12,2000,12,12/1/00,San Diego,California,,HS,0,1,,Wikp
+229,2001-01,2001,1,1/10/01,Oxnard,California,urban,HS,1,,,Pah
+230,2001-01,2001,1,1/17/01,Baltimore,Maryland,urban,HS,1,,,Pah
+231,2001-01,2001,1,1/29/01,Arlington,Texas,urban,MS,1,,,Pah
+232,2001-03,2001,3,3/2/01,San Diego,California,urban,HS,0,,,Pah
+233,2001-03,2001,3,3/5/01,Santee,California,urban,HS,2,,TRUE,Pah
+234,2001-03,2001,3,3/5/01,Santee,California,,HS,2,13,,Wikp
+235,2001-03,2001,3,3/7/01,Williamsport,Pennsylvania,urban,HS,0,,TRUE,Pah
+236,2001-03,2001,3,3/7/01,Williamsport,Pennsylvania,,HS,0,1,,Wikp
+237,2001-03,2001,3,3/22/01,El Cajon,California,urban,HS,0,,TRUE,Pah
+238,2001-03,2001,3,3/22/01,El Cajon,California,,HS,0,5,,Wikp
+239,2001-03,2001,3,3/30/01,Gary,Indiana,urban,HS,1,,TRUE,Pah
+240,2001-03,2001,3,3/30/01,Gary,Indiana,,HS,1,0,,Wikp
+241,2001-04,2001,4,4/3/01,Klein,Texas,urban,MS,0,,,Pah
+242,2001-04,2001,4,4/25/01,Cleveland,Ohio,urban,HS,1,,,Pah
+243,2001-05,2001,5,5/15/01,Ennis,Texas,suburban,HS,0,,,Pah
+244,2001-05,2001,5,5/16/01,Parkland,Washington,,C,2,0,,Wikp
+245,2001-05,2001,5,5/17/01,Pierce County,Washington,urban,C,1,,,Pah
+246,2001-10,2001,10,10/12/01,Taylorsville,Utah,urban,HS,0,,,Pah
+247,2001-11,2001,11,11/12/01,Caro,Michigan,suburban,HS,0,,,Pah
+248,2002-01,2002,1,1/15/02,New York City,New York,urban,HS,0,,TRUE,Pah
+249,2002-01,2002,1,1/15/02,New York City,New York,,HS,0,2,,Wikp
+250,2002-01,2002,1,1/16/02,Gundy,Virginia,rural,C,3,,TRUE,Pah
+251,2002-01,2002,1,1/16/02,Grundy,Virginia,,C,3,3,,Wikp
+252,2002-02,2002,2,2/20/02,Milwaukee,Wisconsin,,HS,1,0,,Wikp
+253,2002-06,2002,6,6/11/02,Conception,Missouri,,-,3,2,,Wikp
+254,2002-07,2002,7,7/26/02,Charlotte,North Carolina,urban,MS,1,,,Pah
+255,2002-10,2002,10,10/4/02,San Antonio,Texas,urban,MS,1,,,Pah
+256,2002-10,2002,10,10/7/02,Bowie,Maryland,urban,MS,0,,TRUE,Pah
+257,2002-10,2002,10,10/7/02,Bowie,Maryland,,MS,0,1,,Wikp
+258,2002-10,2002,10,10/28/02,Tucson,Arizona,urban,C,4,,TRUE,Pah
+259,2002-10,2002,10,10/28/02,Tucson,Arizona,,C,4,0,,Wikp
+260,2002-10,2002,10,10/29/02,Jersey City,New Jersey,,HS,0,1,,Wikp
+261,2002-11,2002,11,11/7/02,Liberty,Missouri,suburban,ES,1,,,Pah
+262,2002-12,2002,12,12/16/02,Chicago,Illinois,urban,HS,1,,,Pah
+263,2003-03,2003,3,3/23/03,Meridian,Mississippi,suburban,HS,0,,,Pah
+264,2003-04,2003,4,4/10/03,Walnut,California,suburban,HS,0,,,Pah
+265,2003-04,2003,4,4/14/03,New Orleans,Louisiana,urban,HS,1,,TRUE,Pah
+266,2003-04,2003,4,4/14/03,New Orleans,Louisiana,,HS,1,3,,Wikp
+267,2003-04,2003,4,4/17/03,Addison,Texas,suburban,ES,1,,,Pah
+268,2003-04,2003,4,4/24/03,Red Lion,Pennsylvania,suburban,MS,1,,TRUE,Pah
+269,2003-04,2003,4,4/24/03,Red Lion,Pennsylvania,,HS,2,0,,Wikp
+270,2003-05,2003,5,5/9/03,Cleveland,Ohio,urban,C,1,,TRUE,Pah
+271,2003-05,2003,5,5/9/03,Cleveland,Ohio,,C,1,2,,Wikp
+272,2003-05,2003,5,5/13/03,Johnstown,Pennsylvania,urban,HS,1,,,Pah
+273,2003-06,2003,6,6/4/03,Wellsboro,Pennsylvania,suburban,MS,0,,,Pah
+274,2003-07,2003,7,7/15/03,Dallas,Texas,urban,HS,0,,,Pah
+275,2003-09,2003,9,9/24/03,Cold Spring,Minnesota,suburban,HS,2,,TRUE,Pah
+276,2003-09,2003,9,9/24/03,Cold Spring,Minnesota,,HS,2,0,,Wikp
+277,2003-10,2003,10,10/30/03,Washington,District Of Columbia,urban,HS,1,,,Pah
+278,2003-11,2003,11,11/7/03,Sugar Land,Texas,urban,HS,1,,,Pah
+279,2004-01,2004,1,1/21/04,Henderson,Nevada,urban,ES,1,,,Pah
+280,2004-02,2004,2,2/2/04,District of Columbia,District Of Columbia,urban,HS,1,,,Pah
+281,2004-02,2004,2,2/2/04,Washington,D.C.,,HS,1,0,,Wikp
+282,2004-02,2004,2,2/9/04,East Greenbush,New York,suburban,HS,0,,TRUE,Pah
+283,2004-02,2004,2,2/9/04,East Greenbush,New York,,-,0,1,,Wikp
+284,2004-02,2004,2,2/11/04,Philadelphia,Pennsylvania,urban,ES,1,,,Pah
+285,2004-03,2004,3,3/17/04,Joyce,Washington,rural,MS,0,,,Pah
+286,2004-05,2004,5,5/7/04,Randallstown,Maryland,suburban,HS,0,,TRUE,Pah
+287,2004-05,2004,5,5/7/04,Randallstown,Maryland,,HS,0,4,,Wikp
+288,2004-05,2004,5,5/24/04,Salt Lake City,Utah,urban,HS,1,,,Pah
+289,2004-06,2004,6,6/1/04,St Croix,Virgin Islands,urban,HS,1,,,Pah
+290,2004-08,2004,8,8/30/04,Maywood,Illinois,suburban,HS,1,,,Pah
+291,2004-10,2004,10,10/4/04,Memphis,Tennessee,urban,HS,0,,,Pah
+292,2004-11,2004,11,11/22/04,Philadelphia,Pennsylvania,urban,HS,1,,,Pah
+293,2004-12,2004,12,12/10/04,Nine Mile Falls,Washington,suburban,HS,1,,,Pah
+294,2005-01,2005,1,1/6/05,Philadelphia,Pennsylvania,urban,HS,1,,,Pah
+295,2005-02,2005,2,2/8/05,Chicago,Illinois,,HS,0,1,,Wikp
+296,2005-03,2005,3,3/2/05,Dover,Tennessee,,HS,1,0,,Wikp
+297,2005-03,2005,3,3/21/05,Red Lake,Minnesota,rural,HS,10,,TRUE,Pah
+298,2005-03,2005,3,3/21/05,Red Lake,Minnesota,,HS,10,7,,Wikp
+299,2005-05,2005,5,5/17/05,Lower Allen Township,Pennsylvania,suburban,ES,1,,,Pah
+300,2005-09,2005,9,9/13/05,Chicago,Illinois,urban,HS,0,,TRUE,Pah
+301,2005-09,2005,9,9/13/05,Chicago,Illinois,,HS,0,1,,Wikp
+302,2005-11,2005,11,11/8/05,Jacksboro,Tennessee,rural,HS,1,,TRUE,Pah
+303,2005-11,2005,11,11/8/05,Jacksboro,Tennessee,,HS,1,2,,Wikp
+304,2006-01,2006,1,1/13/06,Birmingham,Alabama,urban,HS,1,,,Pah
+305,2006-01,2006,1,1/13/06,Longwood,Florida,,MS,0,1,,Wikp
+306,2006-01,2006,1,1/15/06,Longwood,Florida,suburban,MS,1,,TRUE,Pah
+307,2006-02,2006,2,2/23/06,Roseburg,Oregon,suburban,HS,1,,TRUE,Pah
+308,2006-02,2006,2,2/23/06,Roseburg,Oregon,,HS,0,1,,Wikp
+309,2006-03,2006,3,3/14/06,Reno,Nevada,urban,MS,0,,TRUE,Pah
+310,2006-03,2006,3,3/14/06,Reno,Nevada,,MS,0,2,,Wikp
+311,2006-06,2006,6,6/5/06,Venice,California,suburban,HS,1,,,Pah
+312,2006-08,2006,8,8/24/06,Essex,Vermont,suburban,ES,2,,TRUE,Pah
+313,2006-08,2006,8,8/24/06,Essex Junction,Vermont,,ES,2,3,,Wikp
+314,2006-08,2006,8,8/30/06,Hillsborough,North Carolina,suburban,HS,3,,TRUE,Pah
+315,2006-08,2006,8,8/30/06,Hillsborough,North Carolina,,HS,0,2,,Wikp
+316,2006-09,2006,9,9/2/06,Shepherdstown,West Virginia,suburban,C,2,,TRUE,Pah
+317,2006-09,2006,9,9/2/06,Shepherdstown,West Virginia,,C,3,0,,Wikp
+318,2006-09,2006,9,9/17/06,Pittsburgh,Pennsylvania,urban,C,0,,TRUE,Pah
+319,2006-09,2006,9,9/17/06,Pittsburgh,Pennsylvania,,-,0,5,,Wikp
+320,2006-09,2006,9,9/27/06,Bailey,Colorado,suburban,HS,1,,TRUE,Pah
+321,2006-09,2006,9,9/27/06,Bailey,Colorado,,HS,2,0,,Wikp
+322,2006-09,2006,9,9/29/06,Cazenovia,Wisconsin,rural,HS,1,,TRUE,Pah
+323,2006-09,2006,9,9/29/06,Cazenovia,Wisconsin,,HS,1,0,,Wikp
+324,2006-10,2006,10,10/2/06,Nickel Mines,Pennsylvania,rural,HS,5,,,Pah
+325,2006-10,2006,10,10/2/06,Nickel Mines,Pennsylvania,,HS,6,3,,Wikp
+326,2006-10,2006,10,10/9/06,Joplin,Missouri,urban,MS,0,,TRUE,Pah
+327,2006-10,2006,10,10/9/06,Joplin,Missouri,,MS,0,0,,Wikp
+328,2006-10,2006,10,10/17/06,Katy,Texas,suburban,HS,1,,,Pah
+329,2006-10,2006,10,10/29/06,Fresno,California,urban,ES,1,,,Pah
+330,2006-11,2006,11,11/28/06,Houston,Texas,urban,HS,1,,,Pah
+331,2006-12,2006,12,12/12/06,Erdenheim,Pennsylvania,rural,MS,1,,,Pah
+332,2007-01,2007,1,1/3/07,Tacoma,Washington,urban,HS,1,,TRUE,Pah
+333,2007-01,2007,1,1/3/07,Tacoma,Washington,,HS,1,0,,Wikp
+334,2007-02,2007,2,2/8/07,Prineville,Oregon,suburban,HS,1,,,Pah
+335,2007-03,2007,3,3/7/07,Midland,Michigan,urban,HS,0,,,Pah
+336,2007-03,2007,3,3/7/07,Greenville,Texas,suburban,HS,0,,,Pah
+337,2007-03,2007,3,3/7/07,Compton,California,,HS,0,1,,Wikp
+338,2007-03,2007,3,3/24/07,Greensboro,North Carolina,urban,C,0,,,Pah
+339,2007-04,2007,4,4/2/07,Seattle,Washington,urban,C,1,,,Pah
+340,2007-04,2007,4,4/10/07,Gresham,Oregon,urban,HS,0,,,Pah
+341,2007-04,2007,4,4/16/07,Blacksburg,Virginia,urban,C,32,,TRUE,Pah
+342,2007-04,2007,4,4/16/07,Blacksburg,Virginia,,C,33,23,,Wikp
+343,2007-09,2007,9,9/21/07,Dover,Delaware,urban,C,1,,,Pah
+344,2007-09,2007,9,9/28/07,Oroville,California,suburban,HS,0,,,Pah
+345,2007-09,2007,9,9/30/07,Memphis,Tennessee,urban,C,1,,,Pah
+346,2007-10,2007,10,10/10/07,Cleveland,Ohio,urban,HS,0,,TRUE,Pah
+347,2007-10,2007,10,10/10/07,Cleveland,Ohio,,HS,1,4,,Wikp
+348,2007-11,2007,11,11/6/07,Miami Gardens,Florida,,HS,0,1,,Wikp
+349,2008-01,2008,1,1/15/08,Putnam City,Oklahoma,suburban,HS,0,,,Pah
+350,2008-01,2008,1,1/16/08,Cleveland,Ohio,urban,HS,0,,,Pah
+351,2008-01,2008,1,1/16/08,Charlotte,North Carolina,urban,HS,0,,,Pah
+352,2008-02,2008,2,2/4/08,Memphis,Tennessee,urban,HS,0,,TRUE,Pah
+353,2008-02,2008,2,2/4/08,Memphis,Tennessee,,HS,0,1,,Wikp
+354,2008-02,2008,2,2/7/08,Portsmouth,Ohio,suburban,ES,0,,,Pah
+355,2008-02,2008,2,2/8/08,Baton Rouge,Louisiana,urban,C,3,,TRUE,Pah
+356,2008-02,2008,2,2/8/08,Baton Rouge,Louisiana,,C,3,0,,Wikp
+357,2008-02,2008,2,2/11/08,Memphis,Tennessee,urban,HS,0,,TRUE,Pah
+358,2008-02,2008,2,2/11/08,Memphis,Tennessee,,HS,0,1,,Wikp
+359,2008-02,2008,2,2/12/08,Oxnard,California,urban,MS,1,,TRUE,Pah
+360,2008-02,2008,2,2/12/08,Oxnard,California,,HS,1,0,,Wikp
+361,2008-02,2008,2,2/14/08,DeKalb,Illinois,urban,C,5,,TRUE,Pah
+362,2008-02,2008,2,2/14/08,DeKalb,Illinois,,C,6,21,,Wikp
+363,2008-02,2008,2,2/23/08,Jonesboro,Arkansas,urban,C,0,,,Pah
+364,2008-02,2008,2,2/27/08,Little Rock,Arkansas,urban,C,0,,,Pah
+365,2008-02,2008,2,2/28/08,Miami Gardens,Florida,urban,HS,0,,,Pah
+366,2008-03,2008,3,3/6/08,Mobile,Alabama,urban,HS,1,,,Pah
+367,2008-03,2008,3,3/7/08,Chicago,Illinois,urban,HS,1,,,Pah
+368,2008-04,2008,4,4/5/08,Chicago,Illinois,urban,HS,1,,,Pah
+369,2008-04,2008,4,4/16/08,Fresno,California,urban,HS,1,,,Pah
+370,2008-04,2008,4,4/24/08,Omaha,Nebraska,urban,MS,0,,,Pah
+371,2008-04,2008,4,4/29/08,Washington,District of Columbia,urban,C,0,,,Pah
+372,2008-07,2008,7,7/24/08,Phoenix,Arizona,urban,C,0,,,Pah
+373,2008-08,2008,8,8/14/08,Federal Way,Washington,urban,MS,1,,TRUE,Pah
+374,2008-08,2008,8,8/14/08,Federal Way,Washington,,MS,1,0,,Wikp
+375,2008-08,2008,8,8/21/08,Knoxville,Tennessee,urban,HS,1,,TRUE,Pah
+376,2008-08,2008,8,8/21/08,Knoxville,Tennessee,,HS,1,0,,Wikp
+377,2008-08,2008,8,8/29/08,Portland,Oregon,urban,HS,0,,,Pah
+378,2008-09,2008,9,9/2/08,Willoughby,Ohio,suburban,HS,0,,TRUE,Pah
+379,2008-09,2008,9,9/2/08,Willoughby,Ohio,,HS,0,0,,Wikp
+380,2008-10,2008,10,10/13/08,San Antonio,Texas,urban,C,1,,,Pah
+381,2008-10,2008,10,10/16/08,Detroit,Michigan,urban,HS,1,,TRUE,Pah
+382,2008-10,2008,10,10/16/08,Detroit,Michigan,,HS,1,3,,Wikp
+383,2008-10,2008,10,10/20/08,Acton,California,suburban,HS,1,,,Pah
+384,2008-10,2008,10,10/21/08,Indianapolis,Indiana,urban,HS,1,,,Pah
+385,2008-10,2008,10,10/26/08,Conway,Arkansas,urban,C,2,,TRUE,Pah
+386,2008-10,2008,10,10/26/08,Conway,Arkansas,,C,2,1,,Wikp
+387,2008-10,2008,10,10/31/08,Stockton Springs,Maine,rural,ES,0,,,Pah
+388,2008-11,2008,11,11/12/08,Fort Lauderdale,Florida,urban,HS,1,,TRUE,Pah
+389,2008-11,2008,11,11/13/08,Fort Lauderdale,Florida,,HS,1,0,,Wikp
+390,2008-11,2008,11,11/15/08,St. George,Utah,urban,HS,1,,,Pah
+391,2008-11,2008,11,11/21/08,Savannah,Georgia,urban,C,0,,,Pah
+392,2009-01,2009,1,1/8/09,New Castle,Delaware,suburban,HS,0,,,Pah
+393,2009-01,2009,1,1/9/09,Chicago,Illinois,urban,HS,0,,TRUE,Pah
+394,2009-01,2009,1,1/9/09,Chicago,Illinois,,HS,0,5,,Wikp
+395,2009-01,2009,1,1/23/09,Cahokia,Illinois,suburban,HS,1,,,Pah
+396,2009-02,2009,2,2/7/09,Houston,Texas,urban,C,1,,,Pah
+397,2009-02,2009,2,2/11/09,El Monte,California,urban,ES,0,,,Pah
+398,2009-02,2009,2,2/17/09,Detroit,Michigan,urban,HS,0,,,Pah
+399,2009-03,2009,3,3/6/09,Fayetteville,North Carolina,urban,HS,0,,,Pah
+400,2009-03,2009,3,3/10/09,Jacksonville,Florida,urban,HS,2,,,Pah
+401,2009-04,2009,4,4/10/09,Dearborn,Michigan,urban,C,1,,,Pah
+402,2009-04,2009,4,4/24/09,Houston,Texas,urban,C,1,,,Pah
+403,2009-04,2009,4,4/26/09,Hampton,Virginia,urban,C,0,,TRUE,Pah
+404,2009-04,2009,4,4/26/09,Hampton,Virginia,,C,0,3,,Wikp
+405,2009-05,2009,5,5/1/09,Sheboygan,Wisconsin,urban,HS,0,,,Pah
+406,2009-05,2009,5,5/5/09,Canandaigua,New York,suburban,HS,0,,,Pah
+407,2009-05,2009,5,5/18/09,Larose,Louisiana,suburban,MS,0,,,Pah
+408,2009-05,2009,5,5/18/09,Cambridge,Massachusetts,urban,C,1,,TRUE,Pah
+409,2009-05,2009,5,5/18/09,Cambridge,Massachusetts,,C,1,0,,Wikp
+410,2009-05,2009,5,5/18/09,Larose,Louisiana,,MS,1,0,,Wikp
+411,2009-06,2009,6,6/9/09,Lexington,Kentucky,urban,MS,1,,,Pah
+412,2009-06,2009,6,6/16/09,San Francisco,California,urban,HS,0,,TRUE,Pah
+413,2009-06,2009,6,6/16/09,San Francisco,California,,HS,0,3,,Wikp
+414,2009-06,2009,6,6/24/09,Parkersburg,Iowa,rural,HS,1,,,Pah
+415,2009-09,2009,9,9/2/09,San Bruno,California,suburban,C,0,,,Pah
+416,2009-09,2009,9,9/3/09,Atlanta,Georgia,urban,C,1,,,Pah
+417,2009-09,2009,9,9/3/09,San Bruno,California,,C,0,1,,Wikp
+418,2009-09,2009,9,9/8/09,Stamford,Connecticut,urban,HS,0,,,Pah
+419,2009-09,2009,9,9/14/09,Grand Rapids,Michigan,urban,HS,0,,,Pah
+420,2009-09,2009,9,9/16/09,Henrico,Virginia,urban,HS,0,,,Pah
+421,2009-10,2009,10,10/16/09,Carolina Forest,South Carolina,suburban,HS,1,,,Pah
+422,2009-10,2009,10,10/16/09,Conway,South Carolina,,HS,1,0,,Wikp
+423,2009-10,2009,10,10/30/09,Long Beach,California,urban,HS,1,,,Pah
+424,2009-11,2009,11,11/16/09,Dallas,Texas,urban,ES,0,,,Pah
+425,2009-12,2009,12,12/2/09,Brockton,Massachusetts,urban,HS,0,,,Pah
+426,2009-12,2009,12,12/8/09,Woodbridge,Virginia,urban,C,0,,,Pah
+427,2009-12,2009,12,12/11/09,Shreveport,Louisiana,urban,HS,0,,,Pah
+428,2010-01,2010,1,1/7/10,Phoenix,Arizona,urban,HS,0,,,Pah
+429,2010-01,2010,1,1/20/10,Livingston,Alabama,suburban,HS,1,,,Pah
+430,2010-02,2010,2,2/5/10,Madison,Alabama,suburban,MS,1,,TRUE,Pah
+431,2010-02,2010,2,2/5/10,Madison,Alabama,,MS,1,0,,Wikp
+432,2010-02,2010,2,2/10/10,Knoxville,Tennessee,urban,ES,0,,,Pah
+433,2010-02,2010,2,2/12/10,Huntsville,Alabama,urban,C,3,,TRUE,Pah
+434,2010-02,2010,2,2/12/10,Huntsville,Alabama,,C,3,3,,Wikp
+435,2010-02,2010,2,2/19/10,DeKalb,Illinois,urban,C,0,,TRUE,Pah
+436,2010-02,2010,2,2/19/10,DeKalb,Illinois,,C,0,1,,Wikp
+437,2010-02,2010,2,2/23/10,Littleton,Colorado,suburban,MS,0,,TRUE,Pah
+438,2010-02,2010,2,2/23/10,Littleton,Colorado,,MS,0,2,,Wikp
+439,2010-02,2010,2,2/26/10,Tacoma,Washington,urban,ES,2,,,Pah
+440,2010-03,2010,3,3/9/10,Columbus,Ohio,urban,C,1,,TRUE,Pah
+441,2010-03,2010,3,3/9/10,Columbus,Ohio,,C,1,1,,Wikp
+442,2010-04,2010,4,4/29/10,Portsmouth,Virginia,urban,HS,0,,,Pah
+443,2010-05,2010,5,5/18/10,South Gate,California,urban,HS,0,,,Pah
+444,2010-08,2010,8,8/31/10,Blountville,Tennessee,suburban,HS,1,,,Pah
+445,2010-09,2010,9,9/7/10,Detroit,Michigan,urban,HS,0,,,Pah
+446,2010-09,2010,9,9/8/10,Detroit,Michigan,,HS,0,2,,Wikp
+447,2010-09,2010,9,9/16/10,Moss Bluff,Louisiana,suburban,MS,1,,,Pah
+448,2010-09,2010,9,9/21/10,Columbia,South Carolina,urban,HS,0,,,Pah
+449,2010-09,2010,9,9/28/10,Austin,Texas,urban,C,1,,TRUE,Pah
+450,2010-09,2010,9,9/28/10,Austin,Texas,,C,1,0,,Wikp
+451,2010-10,2010,10,10/1/10,Salinas,California,urban,HS,1,,TRUE,Pah
+452,2010-10,2010,10,10/1/10,Salinas,California,,HS,1,0,,Wikp
+453,2010-10,2010,10,10/3/10,Elizabeth City,North Carolina,suburban,C,1,,,Pah
+454,2010-10,2010,10,10/8/10,Carlsbad,California,urban,ES,0,,TRUE,Pah
+455,2010-10,2010,10,10/8/10,Carlsbad,California,,ES,0,2,,Wikp
+456,2010-10,2010,10,10/25/10,Selma,Alabama,suburban,ES,0,,,Pah
+457,2010-11,2010,11,11/29/10,Marinette,Wisconsin,suburban,HS,0,,TRUE,Pah
+458,2010-11,2010,11,11/29/10,Marinette,Wisconsin,,HS,1,0,,Wikp
+459,2010-12,2010,12,12/6/10,Aurora,Colorado,,HS,0,1,,Wikp
+460,2011-01,2011,1,1/5/11,Omaha,Nebraska,urban,HS,1,,TRUE,Pah
+461,2011-01,2011,1,1/5/11,Omaha,Nebraska,,HS,2,2,,Wikp
+462,2011-01,2011,1,1/18/11,Los Angeles,California,urban,HS,0,,,Pah
+463,2011-02,2011,2,2/2/11,Placerville,California,suburban,ES,1,,,Pah
+464,2011-02,2011,2,2/14/11,Murfreesboro,Tennessee,urban,C,0,,,Pah
+465,2011-02,2011,2,2/23/11,Los Angeles,California,urban,C,1,,,Pah
+466,2011-03,2011,3,3/25/11,Martinsville,Indiana,suburban,MS,0,,TRUE,Pah
+467,2011-03,2011,3,3/25/11,Martinsville,Indiana,,MS,0,1,,Wikp
+468,2011-03,2011,3,3/31/11,Houston,Texas,urban,HS,1,,TRUE,Pah
+469,2011-03,2011,3,3/31/11,Houston,Texas,,HS,1,5,,Wikp
+470,2011-04,2011,4,4/6/11,Opelika,Alabama,suburban,C,1,,,Pah
+471,2011-04,2011,4,4/13/11,Apopka,Florida,suburban,HS,0,,,Pah
+472,2011-04,2011,4,4/19/11,Houston,Texas,urban,ES,0,,,Pah
+473,2011-05,2011,5,5/23/11,Pearl City,Hawaii,suburban,MS,0,,TRUE,Pah
+474,2011-05,2011,5,5/23/11,Pearl City,Hawaii,,MS,0,1,,Wikp
+475,2011-08,2011,8,8/26/11,Harper Woods,Michigan,suburban,HS,0,,,Pah
+476,2011-10,2011,10,10/24/11,Fayetteville,North Carolina,urban,HS,0,,TRUE,Pah
+477,2011-10,2011,10,10/24/11,Fayetteville,North Carolina,,HS,0,1,,Wikp
+478,2011-11,2011,11,11/15/11,Berkeley,California,urban,C,0,,,Pah
+479,2011-12,2011,12,12/8/11,Blacksburg,Virginia,urban,C,1,,TRUE,Pah
+480,2011-12,2011,12,12/8/11,Blacksburg,Virginia,,C,2,0,,Wikp
+481,2011-12,2011,12,12/9/11,Edinburg,Texas,urban,MS,0,,TRUE,Pah
+482,2011-12,2011,12,12/9/11,Edinburg,Texas,,MS,0,2,,Wikp
+483,2012-01,2012,1,1/4/12,Brownsville,Texas,urban,MS,0,,,Pah
+484,2012-01,2012,1,1/10/12,Houston,Texas,urban,HS,0,,TRUE,Pah
+485,2012-01,2012,1,1/10/12,Houston,Texas,,HS,0,1,,Wikp
+486,2012-02,2012,2,2/10/12,Walpole,New Hampshire,suburban,ES,0,,,Pah
+487,2012-02,2012,2,2/22/12,Bremerton,Washington,urban,ES,0,,,Pah
+488,2012-02,2012,2,2/27/12,Chardon,Ohio,suburban,HS,3,,TRUE,Pah
+489,2012-02,2012,2,2/27/12,Chardon,Ohio,,HS,3,3,,Wikp
+490,2012-03,2012,3,3/6/12,Jacksonville,Florida,urban,HS,1,,TRUE,Pah
+491,2012-03,2012,3,3/6/12,Jacksonville,Florida,,-,2,0,,Wikp
+492,2012-03,2012,3,3/24/12,Starkville,Mississippi,suburban,C,1,,,Pah
+493,2012-04,2012,4,4/2/12,Oakland,California,urban,C,7,,TRUE,Pah
+494,2012-04,2012,4,4/2/12,Oakland,California,,C,7,3,,Wikp
+495,2012-05,2012,5,5/26/12,Chapel Hill,North Carolina,urban,ES,1,,,Pah
+496,2012-08,2012,8,8/16/12,Memphis,Tennessee,urban,HS,0,,TRUE,Pah
+497,2012-08,2012,8,8/16/12,Memphis,Tennessee,,HS,0,2,,Wikp
+498,2012-08,2012,8,8/27/12,Perry Hall,Maryland,suburban,HS,0,,TRUE,Pah
+499,2012-08,2012,8,8/27/12,Perry Hall,Maryland,,HS,0,1,,Wikp
+500,2012-09,2012,9,9/7/12,Normal,Illinois,urban,HS,0,,TRUE,Pah
+501,2012-09,2012,9,9/7/12,Normal,Illinois,,HS,0,0,,Wikp
+502,2012-09,2012,9,9/12/12,Baltimore,Maryland,urban,C,0,,,Pah
+503,2012-10,2012,10,10/6/12,Mobile,Alabama,,C,1,0,,Wikp
+504,2012-10,2012,10,10/19/12,Chicago,Illinois,,HS,1,0,,Wikp
+505,2012-10,2012,10,10/31/12,Los Angeles,California,urban,C,0,,TRUE,Pah
+506,2012-10,2012,10,10/31/12,Los Angeles,California,,C,0,4,,Wikp
+507,2012-11,2012,11,11/30/12,Baltimore,Maryland,urban,C,0,,,Pah
+508,2012-12,2012,12,12/14/12,Newtown,Connecticut,suburban,ES,27,,TRUE,Pah
+509,2012-12,2012,12,12/14/12,Newtown,Connecticut,,ES,28,2,,Wikp
+510,2013-01,2013,1,1/7/13,Fort Myers,Florida,urban,ES,1,,TRUE,Pah
+511,2013-01,2013,1,1/7/13,Fort Myers,Florida,,-,1,0,,Wikp
+512,2013-01,2013,1,1/10/13,Taft,California,suburban,HS,0,,TRUE,Pah
+513,2013-01,2013,1,1/10/13,Taft,California,,HS,0,2,,Wikp
+514,2013-01,2013,1,1/12/13,Detroit,Michigan,,HS,0,1,,Wikp
+515,2013-01,2013,1,1/15/13,Hazard,Kentucky,suburban,C,3,,,Pah
+516,2013-01,2013,1,1/15/13,St. Louis,Missouri,urban,C,0,,TRUE,Pah
+517,2013-01,2013,1,1/15/13,St. Louis,Missouri,,C,0,2,,Wikp
+518,2013-01,2013,1,1/15/13,Hazard,Kentucky,,C,3,0,,Wikp
+519,2013-01,2013,1,1/16/13,Chicago,Illinois,urban,C,0,,TRUE,Pah
+520,2013-01,2013,1,1/16/13,Chicago,Illinois,,C,1,0,,Wikp
+521,2013-01,2013,1,1/22/13,Houston,Texas,urban,C,0,,TRUE,Pah
+522,2013-01,2013,1,1/22/13,Houston,Texas,,C,0,3,,Wikp
+523,2013-01,2013,1,1/31/13,Phoenix,Arizona,urban,HS,0,,,Pah
+524,2013-01,2013,1,1/31/13,Atlanta,Georgia,urban,MS,0,,,Pah
+525,2013-01,2013,1,1/31/13,Phoenix,Arizona,,HS,0,0,,Wikp
+526,2013-01,2013,1,1/31/13,Atlanta,Georgia,,MS,0,2,,Wikp
+527,2013-03,2013,3,3/18/13,Orlando,Florida,urban,C,1,,TRUE,Pah
+528,2013-03,2013,3,3/18/13,Orlando,Florida,,C,1,0,,Wikp
+529,2013-04,2013,4,4/12/13,Christiansburg,Virginia,suburban,C,0,,,Pah
+530,2013-04,2013,4,4/12/13,Dublin,Virginia,,C,0,2,,Wikp
+531,2013-04,2013,4,4/16/13,Grambling,Louisiana,suburban,C,0,,TRUE,Pah
+532,2013-04,2013,4,4/16/13,Grambling,Louisiana,,C,0,3,,Wikp
+533,2013-04,2013,4,4/18/13,Cambridge,Massachusetts,urban,C,2,,TRUE,Pah
+534,2013-04,2013,4,4/18/13,Cambridge,Massachusetts,,C,2,1,,Wikp
+535,2013-05,2013,5,5/14/13,Birmingham,Alabama,urban,MS,0,,TRUE,Pah
+536,2013-05,2013,5,5/14/13,Birmingham,Alabama,,MS,0,0,,Wikp
+537,2013-06,2013,6,6/7/13,Santa Monica,California,urban,C,6,,TRUE,Pah
+538,2013-06,2013,6,6/7/13,Santa Monica,California,,C,6,4,,Wikp
+539,2013-06,2013,6,6/20/13,West Palm Beach,Florida,urban,HS,2,,,Pah
+540,2013-08,2013,8,8/20/13,Decatur,Georgia,suburban,ES,0,,TRUE,Pah
+541,2013-08,2013,8,8/20/13,Decatur,Georgia,,-,0,0,,Wikp
+542,2013-08,2013,8,8/23/13,Sardis,Mississippi,rural,HS,1,,TRUE,Pah
+543,2013-08,2013,8,8/23/13,Sardis,Mississippi,,HS,1,2,,Wikp
+544,2013-08,2013,8,8/30/13,Winston-Salem,North Carolina,urban,HS,0,,TRUE,Pah
+545,2013-08,2013,8,8/30/13,Winston-Salem,North Carolina,,HS,0,1,,Wikp
+546,2013-10,2013,10,10/4/13,Pine Hills,Florida,urban,HS,0,,TRUE,Pah
+547,2013-10,2013,10,10/4/13,Pine Hills,Florida,,HS,0,2,,Wikp
+548,2013-10,2013,10,10/21/13,Sparks,Nevada,urban,MS,2,,TRUE,Pah
+549,2013-10,2013,10,10/21/13,Sparks,Nevada,,MS,2,2,,Wikp
+550,2013-11,2013,11,11/2/13,Greensboro,North Carolina,urban,C,0,,TRUE,Pah
+551,2013-11,2013,11,11/2/13,Greensboro,North Carolina,,C,0,1,,Wikp
+552,2013-11,2013,11,11/3/13,Lithonia,Georgia,rural,HS,0,,TRUE,Pah
+553,2013-11,2013,11,11/3/13,Lithonia,Georgia,,HS,0,2,,Wikp
+554,2013-11,2013,11,11/13/13,Pittsburgh,Pennsylvania,urban,HS,0,,TRUE,Pah
+555,2013-11,2013,11,11/13/13,Pittsburgh,Pennsylvania,,HS,0,3,,Wikp
+556,2013-12,2013,12,12/4/13,Winter Garden,Florida,suburban,HS,0,,TRUE,Pah
+557,2013-12,2013,12,12/4/13,Winter Garden,Florida,,HS,0,1,,Wikp
+558,2013-12,2013,12,12/13/13,Centennial,Colorado,suburban,HS,2,,TRUE,Pah
+559,2013-12,2013,12,12/13/13,Centennial,Colorado,,HS,2,0,,Wikp
+560,2013-12,2013,12,12/19/13,Fresno,California,urban,HS,0,,TRUE,Pah
+561,2013-12,2013,12,12/19/13,Fresno,California,,HS,0,1,,Wikp
+562,2014-01,2014,1,1/9/14,Jackson,Tennessee,,HS,0,1,,Wikp
+563,2014-01,2014,1,1/13/14,New Haven,Connecticut,,HS,0,1,,Wikp
+564,2014-01,2014,1,1/14/14,Roswell,New Mexico,,MS,0,3,,Wikp
+565,2014-01,2014,1,1/17/14,Philadelphia,Pennsylvania,,HS,0,2,,Wikp
+566,2014-01,2014,1,1/20/14,Chester,Pennsylvania,,C,0,1,,Wikp
+567,2014-01,2014,1,1/21/14,West Lafayette,Indiana,,C,1,0,,Wikp
+568,2014-01,2014,1,1/24/14,Orangeburg,South Carolina,,C,1,0,,Wikp
+569,2014-01,2014,1,1/25/14,Los Angeles,California,,C,1,0,,Wikp
+570,2014-01,2014,1,1/27/14,Carbondale,Illinois,,HS,0,1,,Wikp
+571,2014-01,2014,1,1/28/14,Nashville,Tennessee,,C,0,1,,Wikp
+572,2014-01,2014,1,1/30/14,Palm Bay,Florida,,C,0,1,,Wikp
+573,2014-01,2014,1,1/31/14,Des Moines,Iowa,,HS,0,1,,Wikp
+574,2014-02,2014,2,2/10/14,Salisbury,North Carolina,,HS,0,1,,Wikp
+575,2014-02,2014,2,2/10/14,Lyndhurst,Ohio,,HS,0,0,,Wikp
+576,2014-02,2014,2,2/12/14,Los Angeles,California,,C,0,1,,Wikp
+577,2014-02,2014,2,2/22/14,Augusta,Georgia,,C,0,1,,Wikp
+578,2014-03,2014,3,3/12/14,Miami,Florida,,ES,1,0,,Wikp
+579,2014-03,2014,3,3/25/14,College Park,Georgia,,HS,0,0,,Wikp
+580,2014-04,2014,4,4/9/14,Greenville,North Carolina,,HS,0,0,,Wikp
+581,2014-04,2014,4,4/11/14,Detroit,Michigan,,HS,1,0,,Wikp
+582,2014-05,2014,5,5/4/14,Augusta,Georgia,,C,0,1,,Wikp
+583,2014-05,2014,5,5/5/14,Augusta,Georgia,,C,0,1,,Wikp
+584,2014-05,2014,5,5/8/14,Lawrenceville,Georgia,,C,0,1,,Wikp
+585,2014-05,2014,5,5/14/14,Richmond,California,,HS,0,1,,Wikp
+586,2014-06,2014,6,6/5/14,Seattle,Washington,,C,1,2,,Wikp
+587,2014-06,2014,6,6/10/14,Troutdale,Oregon,,HS,2,1,,Wikp
+588,2014-09,2014,9,9/9/14,Miami,Florida,,-,0,1,,Wikp
+589,2014-09,2014,9,9/27/14,Terre Haute,Indiana,,C,0,1,,Wikp
+590,2014-09,2014,9,9/30/14,Albemarle,North Carolina,,HS,0,1,,Wikp
+591,2014-09,2014,9,9/30/14,Louisville,Kentucky,,HS,0,1,,Wikp
+592,2014-10,2014,10,10/3/14,Fairburn,Georgia,,HS,1,0,,Wikp
+593,2014-10,2014,10,10/24/14,Marysville,Washington,,HS,5,1,,Wikp
+594,2014-11,2014,11,11/20/14,Tallahassee,Florida,,C,1,3,,Wikp
+595,2014-11,2014,11,11/20/14,Miami,Florida,,HS,1,1,,Wikp
+596,2014-12,2014,12,12/5/14,Claremore,Oklahoma,,C,1,0,,Wikp
+597,2014-12,2014,12,12/12/14,Portland,Oregon,,HS,0,4,,Wikp
+598,2015-01,2015,1,1/15/15,Milwaukee,Wisconsin,,HS,0,3,,Wikp
+599,2015-01,2015,1,1/16/15,Ocala,Florida,,-,0,2,,Wikp
+600,2015-02,2015,2,2/4/15,Frederick,Maryland,,HS,0,2,,Wikp
+601,2015-02,2015,2,2/14/15,Merced,California,,MS,1,0,,Wikp
+602,2015-02,2015,2,2/23/15,Daytona Beach,Florida,,C,0,3,,Wikp
+603,2015-03,2015,3,3/30/15,University City,Missouri,,ES,0,1,,Wikp
+604,2015-04,2015,4,4/13/15,Goldsboro,North Carolina,,C,1,0,,Wikp
+605,2015-04,2015,4,4/16/15,Paradis,Louisiana,,MS,0,1,,Wikp
+606,2015-04,2015,4,4/27/15,Lacey,Washington,,HS,0,0,,Wikp
+607,2015-05,2015,5,5/12/15,Jacksonville,Florida,,HS,0,2,,Wikp
+608,2015-05,2015,5,5/24/15,Flint,Michigan,,HS,0,7,,Wikp
+609,2015-08,2015,8,8/27/15,Savannah,Georgia,,C,1,0,,Wikp
+610,2015-09,2015,9,9/3/15,Sacramento,California,,C,1,2,,Wikp
+611,2015-09,2015,9,9/14/15,Cleveland,Mississippi,,C,2,0,,Wikp
+612,2015-09,2015,9,9/30/15,Harrisburg,South Dakota,,HS,0,1,,Wikp
+613,2015-10,2015,10,10/1/15,Roseburg,Oregon,,C,10,9,,Wikp
+614,2015-10,2015,10,10/9/15,Flagstaff,Arizona,,C,1,3,,Wikp
+615,2015-10,2015,10,10/9/15,Houston,Texas,,C,1,1,,Wikp
+616,2015-10,2015,10,10/22/15,Nashville,Tennessee,,C,1,3,,Wikp
+617,2015-11,2015,11,11/1/15,Winston-Salem,North Carolina,,C,1,1,,Wikp
+618,2015-11,2015,11,11/20/15,North Las Vegas,Nevada,,HS,1,0,,Wikp
+619,2016-01,2016,1,1/22/16,Indianapolis,Indiana,,HS,0,1,,Wikp
+620,2016-01,2016,1,1/29/16,Philadelphia,Pennsylvania,,HS,0,0,,Wikp
+621,2016-02,2016,2,2/9/16,Muskegon Heights,Michigan,,HS,0,4,,Wikp
+622,2016-02,2016,2,2/12/16,Glendale,Arizona,,HS,2,0,,Wikp
+623,2016-02,2016,2,2/29/16,Middletown,Ohio,,HS,0,4,,Wikp
+624,2016-04,2016,4,4/23/16,Antigo,Wisconsin,,HS,1,2,,Wikp
+625,2016-06,2016,6,6/1/16,Los Angeles,California,,C,2,0,,Wikp
+626,2016-06,2016,6,6/8/16,Dorchester,Massachusetts,,HS,1,3,,Wikp
+627,2016-09,2016,9,9/6/16,Cedar Rapids,IA,,HS,1,0,,Wikp
+628,2016-09,2016,9,9/9/16,Alpine,Texas,,HS,1,2,,Wikp
+629,2016-09,2016,9,9/28/16,Townville,South Carolina,,ES,2,2,,Wikp
+630,2016-10,2016,10,10/11/16,Mobile,Alabama,,HS,0,1,,Wikp
+631,2016-10,2016,10,10/13/16,Columbus,Ohio,,HS,0,2,,Wikp
+632,2016-10,2016,10,10/18/16,San Francisco,California,,HS,0,4,,Wikp
+633,2016-10,2016,10,10/25/16,Sandy,Utah,,MS,0,1,,Wikp
+634,2016-12,2016,12,12/1/16,Bountiful,Utah,,MS,0,0,,Wikp
+635,2017-01,2017,1,1/20/17,West Liberty,Ohio,,HS,0,1,,Wikp
+636,2017-01,2017,1,1/20/17,Seattle,Washington,,C,0,1,,Wikp
+637,2017-03,2017,3,3/21/17,King City,California,,HS,0,1,,Wikp
+638,2017-04,2017,4,4/10/17,San Bernardino,California,,ES,3,1,,Wikp
+639,2017-05,2017,5,5/4/17,Irving,Texas,,C,2,0,,Wikp
+640,2017-09,2017,9,9/13/17,Rockford,Washington,,HS,1,3,,Wikp
+641,2017-09,2017,9,9/20/17,Mattoon,Illinois,,HS,0,1,,Wikp
+642,2017-11,2017,11,11/14/17,Rancho Tehama Reserve,California,,ES,6,18,,Wikp
+643,2017-12,2017,12,12/7/17,Aztec,New Mexico,,HS,3,0,,Wikp
+644,2018-01,2018,1,1/9/18,Forest City,Iowa,,-,0,0,,Wikp
+645,2018-01,2018,1,1/20/18,Winston-Salem,North Carolina,,C,1,0,,Wikp
+646,2018-01,2018,1,1/22/18,Italy,Texas,,HS,0,1,,Wikp
+647,2018-01,2018,1,1/22/18,New Orleans,Louisiana,,HS,0,1,,Wikp
+648,2018-01,2018,1,1/23/18,Marshall County,Kentucky,,HS,2,18,,Wikp
+649,2018-02,2018,2,2/1/18,Los Angeles,California,,MS,0,5,,Wikp
+650,2018-02,2018,2,2/14/18,Parkland,Florida,,HS,17,14,,Wikp
+651,2018-03,2018,3,3/2/18,Mount Pleasant,Michigan,,C,2,0,,Wikp
+652,2018-03,2018,3,3/7/18,Birmingham,Alabama,,HS,1,2,,Wikp
+653,2018-03,2018,3,3/14/18,Birmingham,Alabama,,C,2,1,,Wikp
+654,2018-03,2018,3,3/20/18,Great Mills,Maryland,,HS,2,1,,Wikp
+655,2018-04,2018,4,4/20/18,Ocala,Florida,,HS,0,1,,Wikp
+656,2018-05,2018,5,5/11/18,Palmdale,California,,HS,0,1,,Wikp
+657,2018-05,2018,5,5/16/18,Dixon,Texas,,HS,0,1,,Wikp
+658,2018-05,2018,5,5/18/18,Santa Fe,Texas,,HS,10,10,,Wikp
+659,2018-05,2018,5,5/18/18,Jonesboro,Georgia,,HS,1,3,,Wikp
+660,2018-05,2018,5,5/25/18,Nobelsville,Indiana,,MS,0,2,,Wikp
+661,2018-08,2018,8,8/17/18,Wellington,Florida,,HS,0,2,,Wikp
+662,2018-08,2018,8,8/30/18,San Francisco,California,,HS,0,1,,Wikp
+663,2018-09,2018,9,9/5/18,Providence,Rhode Island,,HS,1,1,,Wikp
+664,2018-09,2018,9,9/10/18,Memphis,Tennessee,,HS,0,1,,Wikp
+665,2018-09,2018,9,9/11/18,Las Vegas,Nevada,,HS,1,0,,Wikp
+666,2018-10,2018,10,10/29/18,Matthews,North Carolina,,HS,1,1,,Wikp
+667,2018-12,2018,12,12/13/18,Richmond,Indiana,,MS,1,0,,Wikp
+668,2019-01,2019,1,1/25/19,Mobile,Alabama,,HS,0,2,,Wikp
+669,2019-02,2019,2,2/8/19,Baltimore,Maryland,,HS,0,1,,Wikp
+670,2019-02,2019,2,2/12/19,Kansas City,Missouri,,HS,1,0,,Wikp
+671,2019-02,2019,2,2/14/19,Rio Rancho,New Mexico,,HS,0,0,,Wikp
+672,2019-03,2019,3,3/22/19,Blountville,Alabama,,ES,0,1,,Wikp
+673,2019-04,2019,4,4/1/19,Prescott,Arizona,,HS,0,1,,Wikp
+674,2019-04,2019,4,4/25/19,Dekalb,Georgia,,ES,0,10,,Wikp
+675,2019-04,2019,4,4/30/19,Charlotte,North Carolina,,C,2,4,,Wikp
+676,2019-05,2019,5,5/4/19,Eugene,Oregon,,C,1,0,,Wikp
+677,2019-05,2019,5,5/6/19,Riverview,Florida,,ES,0,0,,Wikp
+678,2019-05,2019,5,5/7/19,Highlands Ranch,Colorado,,HS,1,7,,Wikp
+679,2019-05,2019,5,5/7/19,Savannah,Georgia,,C,0,1,,Wikp
+680,2019-08,2019,8,8/8/19,Montgomery,Alabama,,ES,0,0,,Wikp
+681,2019-08,2019,8,8/30/19,Mobile,Alabama,,HS,0,10,,Wikp
+682,2019-10,2019,10,10/22/19,Santa Rosa,California,,HS,0,1,,Wikp
+683,2019-11,2019,11,11/14/19,Santa Clarita,California,,HS,2,4,,Wikp
+684,2019-11,2019,11,11/15/19,Pleasantville,New Jersey,,HS,1,2,,Wikp
+685,2019-11,2019,11,11/23/19,Union City,California,,ES,2,0,,Wikp
+686,2019-12,2019,12,12/2/19,Waukesha,Wisconsin,,HS,0,1,,Wikp
+687,2019-12,2019,12,12/3/19,Oshkosh,Wisconsin,,HS,0,2,,Wikp
+688,2020-01,2020,1,1/8/20,Belle Glade,Florida,,HS,0,1,,Wikp
+689,2020-01,2020,1,1/11/20,Dallas,Texas,,HS,1,1,,Wikp
+690,2020-01,2020,1,1/14/20,Bellaire,Texas,,HS,1,0,,Wikp
+691,2020-01,2020,1,1/14/20,Fort Worth,Texas,,HS,0,2,,Wikp
+692,2020-01,2020,1,1/23/20,Oxnard,California,,ES,0,1,,Wikp
+693,2020-02,2020,2,2/3/20,Jacksonville,Florida,,ES,0,1,,Wikp
+694,2020-02,2020,2,2/3/20,Commerce,Texas,,C,2,1,,Wikp
